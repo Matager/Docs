@@ -15,16 +15,26 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 ### 2.1 User Registration and Authentication
 
 - **2.1.1 Registration [Essential]:** Users should be able to create an account on Matager.
+  - Users can register with a valid email address.
+  - Email verification process to ensure the authenticity of the user.
+  
 - **2.1.2 Authentication [Essential]:** Secure login and authentication mechanisms must be implemented.
 
 ### 2.2 Store Creation and Customization
 
 - **2.2.1 Shop Setup [Essential]:** Users can create their online store with a simple setup process.
+  - User-friendly store setup process.
+  - Selection of business type (supermarket, clothing store, gift shop, etc.).
+  - Customizable store details (name, logo, description).
 - **2.2.2 Theme Selection [Essential]:** Matager should provide a variety of predefined themes for users to choose from.
+  - Predefined themes for various business types.
+  - Ability to customize colors, fonts, and layout.
 
 ### 2.3 Store Management
 
 - **2.3.1 Product Management [Essential]:** Users can add, edit, and remove products from their stores.
+  - Easy product upload with images, descriptions, and prices.
+  - Inventory management with stock tracking.
 - **2.3.2 Payment Methods [High]:** Support for multiple payment methods (e.g., credit cards, PayPal).
 - **2.3.3 Delivery Methods [High]:** Users can define and manage delivery options.
 
@@ -71,4 +81,4 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 
 ## 5. Approval
 
-This Project Requirements Document is to be reviewed and approved by the project stakeholders.
+This Project Requirements Document is to be reviewed and approved by the project stakeholders aka team members.
