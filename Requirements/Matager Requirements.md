@@ -27,9 +27,9 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 
 #### 2.2.2 Order Management
   - **2.2.2.1 Order Processing:**
-    View: Allow owners to list all customers orders.
-    Accept & Confirm: Allow owners confirm or decline orders.
-    Edit: Allow owners to delete or edit customers orders, add or delete items, discounts, change delivery options and address, payments and so on.
+    View: Allow owners to list all customers orders.  
+    Accept & Confirm: Allow owners confirm or decline orders.  
+    Edit: Allow owners to delete or edit customers orders, add or delete items, discounts, change delivery options and address, payments and so on.  
   - **2.2.2.1 Order Status:** Allow owners to track orders from placement to delivery.
   - **2.2.2.2 Refunds and Returns:** Allow owners to manage return requests and process refunds.
 
