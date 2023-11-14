@@ -15,10 +15,23 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 
 ### 2.1 Admin Panel
 
-#### 2.1.1 Store Customization: 
-  - **2.1.1.1 Theem:** Allow administrators to customize the appearance and branding of the online stores hosted on the platform.
+
 
 ### 2.2 Owner Panel
+
+#### 2.2.1 Store Customization: 
+  - **2.2.1.1 Store Details:** Allow owners to edit store name, address, logo, and all other store data.
+  - **2.2.1.2 Domain:** Allow owners to setup a custom domain for their store.
+  - **2.2.1.3 Theem:** Allow owners to customize the appearance and branding of the online stores hosted on the platform.
+    Offer diffrent themes for diffrent bisnuss types (supermarkets, colthing, gifts)
+
+#### 2.2.2 Order Management
+  - **2.2.2.1 Order Processing:**
+    View: Allow owners to list all customers orders.
+    Accept & Confirm: Allow owners confirm or decline orders.
+    Edit: Allow owners to delete or edit customers orders, add or delete items, discounts, change delivery options and address, payments and so on.
+  - **2.2.2.1 Order Status:** Allow owners to track orders from placement to delivery.
+  - **2.2.2.2 Refunds and Returns:** Allow owners to manage return requests and process refunds.
 
 ### 2.3 Store
 
