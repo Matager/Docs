@@ -12,45 +12,15 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 
 ## 2. Functional Requirements
 
-### 2.1 User Registration and Authentication
 
-- **2.1.1 Registration [Essential]:** Users should be able to create an account on Matager.
-  - Users can register with a valid email address.
-  - Email verification process to ensure the authenticity of the user.
-  
-- **2.1.2 Authentication [Essential]:** Secure login and authentication mechanisms must be implemented.
+### 2.1 Admin Panel
 
-### 2.2 Store Creation and Customization
+#### 2.1.1 Store Customization: 
+  - **2.1.1.1 Theem:** Allow administrators to customize the appearance and branding of the online stores hosted on the platform.
 
-- **2.2.1 Shop Setup [Essential]:** Users can create their online store with a simple setup process.
-  - User-friendly store setup process.
-  - Selection of business type (supermarket, clothing store, gift shop, etc.).
-  - Customizable store details (name, logo, description).
-- **2.2.2 Theme Selection [Essential]:** Matager should provide a variety of predefined themes for users to choose from.
-  - Predefined themes for various business types.
-  - Ability to customize colors, fonts, and layout.
+### 2.2 Owner Panel
 
-### 2.3 Store Management
-
-- **2.3.1 Product Management [Essential]:** Users can add, edit, and remove products from their stores.
-  - Easy product upload with images, descriptions, and prices.
-  - Inventory management with stock tracking.
-- **2.3.2 Payment Methods [High]:** Support for multiple payment methods (e.g., credit cards, PayPal).
-- **2.3.3 Delivery Methods [High]:** Users can define and manage delivery options.
-
-### 2.4 Dashboard and Analytics
-
-- **2.4.1 Overview Dashboard [Essential]:** Matager should provide a comprehensive dashboard displaying key metrics and insights.
-- **2.4.2 Customer Insights [High]:** Information on customer orders, most selling items, top loyal customers, and regional sales data.
-
-### 2.5 AI Features
-
-- **2.5.1 Recommendation System [High]:** Implement a recommendation system based on customer purchase and browsing history.
-- **2.5.2 Chatbot [High]:** Integrate an intelligent chatbot to handle customer queries.
-
-### 2.6 UI/UX
-
-- **2.6.1 Expert Design Collaboration [Essential]:** Matager will collaborate with a freelancer to ensure top-notch UI/UX design.
+### 2.3 Store
 
 ## 3. Non-functional Requirements
 
