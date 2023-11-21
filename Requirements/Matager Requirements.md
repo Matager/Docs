@@ -15,13 +15,13 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 
 ### 2.1 Admin Panel
 
-
+<br>
 
 ### 2.2 Owner Panel
 
-#### 2.2.1 Store Customization
+### 2.2.1 Store Customization
 
-##### 2.2.1.1 Store Brand
+#### 2.2.1.1 Store Brand
 
 - **Main Color and Second Color:**
   - Owners can use a form to set the main color and second color of their store, allowing for personalized branding.
@@ -35,7 +35,7 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 - **Copyright Text:**
   - A field where owners can input copyright text, ensuring legal ownership and protection of their brand.
 
-##### 2.2.1.2 Themes
+#### 2.2.1.2 Themes
 
 - **Choose Theme:**
   - Owners can select a theme from the available options to customize the appearance of their online store.
@@ -43,7 +43,7 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 - **Custom Theme Component:**
   - For those seeking a unique look, owners have the option to create a custom theme by contacting support for assistance.
 
-#### 2.2.2 Products
+### 2.2.2 Products
 
 - **Add New Product:**
   - Owners can utilize a comprehensive form to input detailed product information, including barcode, weight, cost, stock quantities, order quantity limits, discounts, images, and SEO details.
@@ -51,7 +51,7 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 - **Products Table:**
   - A table displaying essential product details such as image, name, barcode, quantity, price, and state (published or not). Owners can manage products with options to edit, delete, and view additional details.
 
-#### 2.2.3 Customer
+### 2.2.3 Customer
 
 - **Add New Customer:**
   - Owners can manually add new customers using a form with fields for customer name, email, phone number, gender, and date of birth.
@@ -59,14 +59,14 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 - **Customer Table:**
   - A table containing important customer data, including name, phone number, email, total orders, with options to edit and delete customer data.
 
-#### 2.2.4 Orders Management
+### 2.2.4 Orders Management
 
 - **Orders Table:**
   - A comprehensive table displaying all order data, including order number, customer, order date, edit date, source, shipping, payment, notes, order status, and payment status.
 
-#### 2.2.5 Offers
+### 2.2.5 Offers
 
-##### 2.2.5.1 Coupons
+#### 2.2.5.1 Coupons
 
 - **Add Coupon:**
   - Owners can add new coupons using a form with fields for coupon name, code, discount value, start date, end date, and usage limit.
@@ -74,11 +74,11 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 - **Coupons Table:**
   - A table displaying coupon details such as name, code, discount value, total uses, start date, end date, and activation status. Owners can manage coupons with options to delete and deactivate.
 
-##### 2.2.5.2 Automatic Discounts
+#### 2.2.5.2 Automatic Discounts
 
 - Automatic discounts include free shipping, online payment discounts, and special discounts for mobile app users.
 
-#### 2.2.6 Delivery Management
+### 2.2.6 Delivery Management
 
 - **Deliveries Table:**
   - A table containing data about delivery orders, including product name, product barcode, and status. Owners can manage deliveries with options to delete, edit, and track return status.
@@ -86,35 +86,36 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 - **Returns Requests Table:**
   - A table displaying all return requests, providing owners with the option to accept or refuse return orders.
 
-#### 2.2.7 Analytics
+### 2.2.7 Analytics
 
-##### 2.2.7.1 Product Analytics
+#### 2.2.7.1 Product Analytics
 
 - A dashboard offering insights into total sales, number of orders, total discount value, cash on delivery fees, canceled orders, returned orders, total shipping, best-selling products, and top-selling cities.
 
-##### 2.2.7.2 Customer Analytics
+#### 2.2.7.2 Customer Analytics
 
 - Metrics include the total number of clients who ordered before, total number of visits, and number of returning clients.
 
-#### 2.2.8 AI Features
+### 2.2.8 AI Features
 
 - Activation options for a chatbot and recommendation system to enhance the overall user experience.
 
-#### 2.2.9 Customer Feature
+### 2.2.9 Customer Feature
 
 - Owners have the option to create a mobile app for their store, providing a dedicated platform for their customers.
 
-#### 2.2.10 Notification
+### 2.2.10 Notification
 
 - Activation options for notifications on new customer enrollments, return requests, and coupon usage.
 
-#### 2.2.11 Reviews
+### 2.2.11 Reviews
 
 - **Activate Review Request Email:**
   - Option to send emails requesting customers to leave reviews.
 
 - **Review Response:**
   - Allow store owners to respond to customer reviews, fostering customer engagement and addressing concerns.
+
 
 ### 2.3 Store
 
