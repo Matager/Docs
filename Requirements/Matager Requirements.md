@@ -23,22 +23,26 @@ Matager aims to provide a user-friendly and feature-rich environment for individ
 
 #### 2.2.1.1 Store Brand
 
-- **Main Color and Second Color:**
-  - Owners can use a form to set the main color and second color of their store, allowing for personalized branding.
+- **Store Info:**
+  - Add Store information, name, address, description.
 
 - **Upload Store Logo:**
   - An option for owners to upload their store logo, enhancing brand visibility and recognition.
 
-- **Upload Cover Image (Hero Image):**
-  - Owners can upload a cover image, also known as a hero image, to showcase their store prominently on the platform.
-
 - **Copyright Text:**
   - A field where owners can input copyright text, ensuring legal ownership and protection of their brand.
+
+- **Store Domain:**
+  - Setup a custom domain for the store.
+
 
 #### 2.2.1.2 Themes
 
 - **Choose Theme:**
   - Owners can select a theme from the available options to customize the appearance of their online store.
+
+- **Main Color and Second Color:**
+  - Owners can use a form to set the main color and second color of their store, allowing for personalized branding.
 
 - **Custom Theme Component:**
   - For those seeking a unique look, owners have the option to create a custom theme by contacting support for assistance.
